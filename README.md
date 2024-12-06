@@ -105,8 +105,8 @@ Follow these steps to set up and run the project:
 
    In the Datasets folder, you will find:
 
-   - A labelled dataset with 22,000 datapoints for training and evaluation.
-   - An unlabelled dataset for inference and performance testing.
+   - A labelled dataset with 22,000 datapoints.
+   - An unlabelled dataset with same 22,000 datapoints.
 
 6. **Perform Inference**
 
